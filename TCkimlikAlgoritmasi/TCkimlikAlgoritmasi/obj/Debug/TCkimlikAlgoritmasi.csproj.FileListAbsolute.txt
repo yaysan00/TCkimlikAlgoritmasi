@@ -1,0 +1,10 @@
+C:\Users\Yasin\source\repos\TCkimlikAlgoritmasi\TCkimlikAlgoritmasi\bin\Debug\TCkimlikAlgoritmasi.exe.config
+C:\Users\Yasin\source\repos\TCkimlikAlgoritmasi\TCkimlikAlgoritmasi\bin\Debug\TCkimlikAlgoritmasi.exe
+C:\Users\Yasin\source\repos\TCkimlikAlgoritmasi\TCkimlikAlgoritmasi\bin\Debug\TCkimlikAlgoritmasi.pdb
+C:\Users\Yasin\source\repos\TCkimlikAlgoritmasi\TCkimlikAlgoritmasi\obj\Debug\TCkimlikAlgoritmasi.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\TCkimlikAlgoritmasi\TCkimlikAlgoritmasi\obj\Debug\TCkimlikAlgoritmasi.Form1.resources
+C:\Users\Yasin\source\repos\TCkimlikAlgoritmasi\TCkimlikAlgoritmasi\obj\Debug\TCkimlikAlgoritmasi.Properties.Resources.resources
+C:\Users\Yasin\source\repos\TCkimlikAlgoritmasi\TCkimlikAlgoritmasi\obj\Debug\TCkimlikAlgoritmasi.csproj.GenerateResource.cache
+C:\Users\Yasin\source\repos\TCkimlikAlgoritmasi\TCkimlikAlgoritmasi\obj\Debug\TCkimlikAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\TCkimlikAlgoritmasi\TCkimlikAlgoritmasi\obj\Debug\TCkimlikAlgoritmasi.exe
+C:\Users\Yasin\source\repos\TCkimlikAlgoritmasi\TCkimlikAlgoritmasi\obj\Debug\TCkimlikAlgoritmasi.pdb
